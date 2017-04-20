@@ -1,4 +1,7 @@
-# test coverage for  [cli-table (v0.3.1)](https://github.com/Automattic/cli-table)  [![npm package](https://img.shields.io/npm/v/npmtest-cli-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cli-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cli-table.svg)](https://travis-ci.org/npmtest/node-npmtest-cli-table)
+# npmtest-cli-table
+
+#### basic test coverage for  [cli-table (v0.3.1)](https://github.com/Automattic/cli-table)  [![npm package](https://img.shields.io/npm/v/npmtest-cli-table.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cli-table) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cli-table.svg)](https://travis-ci.org/npmtest/node-npmtest-cli-table)
+
 #### Pretty unicode tables for the CLI
 
 [![NPM](https://nodei.co/npm/cli-table.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cli-table)
